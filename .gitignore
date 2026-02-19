@@ -1,0 +1,16 @@
+# Python virtual environment
+my_env/
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+
+# React
+My-App-Frontend/node_modules/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
